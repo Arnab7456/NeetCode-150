@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fa4d15b-ed2f-416c-b290-cd135ee04ee2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Linked_list/base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Linked_list/leet_206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/leet_151.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyRandompick/leet_414.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/randomPick/leet_2558.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/randomPick/leet_3151.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
