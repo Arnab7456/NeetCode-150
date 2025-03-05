@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fa4d15b-ed2f-416c-b290-cd135ee04ee2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/leet_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TCS/random1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TCS/random2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TCS/random3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/leet_344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/leet_1207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/leet_136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/leet_217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/remove_duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TCS/random4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,33 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.leet_344">
+  <component name="RunManager" selected="Application.leet_136">
+    <configuration name="leet_1207" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.leet_1207" />
+      <module name="Neetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leet_136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.leet_136" />
+      <module name="Neetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leet_344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.leet_344" />
       <module name="Neetcode" />
@@ -75,34 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="random1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TCS.random1" />
-      <module name="Neetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TCS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="random2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TCS.random2" />
-      <module name="Neetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TCS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="random3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TCS.random3" />
+    <configuration name="random4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TCS.random4" />
       <module name="Neetcode" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leet_136" />
+        <item itemvalue="Application.leet_1207" />
+        <item itemvalue="Application.random4" />
         <item itemvalue="Application.leet_344" />
         <item itemvalue="Application.leet_7" />
-        <item itemvalue="Application.random3" />
-        <item itemvalue="Application.random2" />
-        <item itemvalue="Application.random1" />
       </list>
     </recent_temporary>
   </component>
