@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fa4d15b-ed2f-416c-b290-cd135ee04ee2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/leet_1207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/leet_136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/leet_217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/remove_duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TCS/random4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/leet_169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/leet_268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/leet_43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/First_Unique_Character_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,20 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.leet_136">
+  <component name="RunManager" selected="Application.leet_43">
+    <configuration name="First_Unique_Character_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.First_Unique_Character_String" />
+      <module name="Neetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leet_1207" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.leet_1207" />
       <module name="Neetcode" />
@@ -75,21 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leet_344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.leet_344" />
-      <module name="Neetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leet_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.leet_7" />
+    <configuration name="leet_43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.leet_43" />
       <module name="Neetcode" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leet_43" />
+        <item itemvalue="Application.First_Unique_Character_String" />
         <item itemvalue="Application.leet_136" />
         <item itemvalue="Application.leet_1207" />
         <item itemvalue="Application.random4" />
-        <item itemvalue="Application.leet_344" />
-        <item itemvalue="Application.leet_7" />
       </list>
     </recent_temporary>
   </component>
