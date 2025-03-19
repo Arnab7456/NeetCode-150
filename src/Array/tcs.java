@@ -24,6 +24,7 @@ public class tcs {
 
         int[] arr1 = {1, 2, 2, 3, 3};
         ansEven1(arr1);
+        System.out.println(ansTest(arr1));
         in.close();
     }
     public static int ans (int range1 , int range2){
@@ -145,6 +146,20 @@ public class tcs {
                 System.out.println(num);
             }
         }
+    }
+    public static int ansTest(int [] arr){
+        HashMap<Integer, Integer> hashmap = new HashMap<>();
+        for(int ans : arr){
+            hashmap.put(ans, hashmap.getOrDefault(ans,0)+1);
+        }
+        int sum =0;
+
+        for(int test : hashmap.values()){
+            if(test>1){
+                sum +=test;
+            }
+        }
+        return sum;
     }
 
     }

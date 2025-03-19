@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fa4d15b-ed2f-416c-b290-cd135ee04ee2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/tcs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/unique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TCS/random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TCS/traa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/tess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/leet_148.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/leet_148.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/tcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/tcs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +45,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tcs">
-    <configuration name="overloadingg$Operatiosn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.Method.overloadingg$Operatiosn" />
-      <module name="Neetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oops.Method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.tess">
     <configuration name="random1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TCS.random1" />
       <module name="Neetcode" />
@@ -77,6 +61,19 @@
     </configuration>
     <configuration name="tcs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.tcs" />
+      <module name="Neetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.tess" />
       <module name="Neetcode" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tess" />
         <item itemvalue="Application.tcs" />
         <item itemvalue="Application.traa" />
         <item itemvalue="Application.random1" />
         <item itemvalue="Application.unique" />
-        <item itemvalue="Application.overloadingg$Operatiosn" />
       </list>
     </recent_temporary>
   </component>
