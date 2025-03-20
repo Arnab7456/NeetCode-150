@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fa4d15b-ed2f-416c-b290-cd135ee04ee2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/tess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/tcsChoclate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/tes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/tcs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/tcs.java" afterDir="false" />
     </list>
@@ -45,13 +46,13 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tess">
-    <configuration name="random1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TCS.random1" />
+  <component name="RunManager" selected="Application.tes">
+    <configuration name="tcs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.tcs" />
       <module name="Neetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TCS.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,8 +60,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tcs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.tcs" />
+    <configuration name="tcsChoclate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.tcsChoclate" />
+      <module name="Neetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.tes" />
       <module name="Neetcode" />
       <extension name="coverage">
         <pattern>
@@ -98,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="unique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.unique" />
-      <module name="Neetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tes" />
+        <item itemvalue="Application.tcsChoclate" />
         <item itemvalue="Application.tess" />
         <item itemvalue="Application.tcs" />
         <item itemvalue="Application.traa" />
-        <item itemvalue="Application.random1" />
-        <item itemvalue="Application.unique" />
       </list>
     </recent_temporary>
   </component>

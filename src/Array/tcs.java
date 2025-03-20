@@ -161,6 +161,16 @@ public class tcs {
         }
         return sum;
     }
+    public static void  Test(String ans , String ans2){
+        if (ans == null || ans2 == null){
+            return;
+        }
+        if (ans.equals(ans2)){
+            System.out.println("done...");
+        }else {
+            System.out.println("noo");
+        }
+    }
 
     }
 
